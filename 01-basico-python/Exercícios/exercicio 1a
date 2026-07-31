@@ -1,0 +1,16 @@
+
+# entrar com nome
+nome = input("Digite seu nome? ")
+# entrar com idade
+idade = input('Digite sua idade ')
+# entrar com cidade
+cidade = input('Digite sua cidade ')
+# entrar com altura
+altura = input('Digite sua altura ')
+# entrar com informação
+carteira = True
+print('seu nome é',nome)
+print('Você tem ', idade, 'anos')
+print('você mora em ', cidade)
+print('Sua altura é ', altura)
+print(carteira)

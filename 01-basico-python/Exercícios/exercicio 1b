@@ -1,0 +1,15 @@
+# entrar com produto
+produto = input("Digite o nome do produto ")
+# entrar com preço
+preco = input('Digite preço ')
+# entrar com quantidade
+quantidade = input('Digite a quantidade ')
+# entrar com categoria
+categoria = input('Digite a categoria ')
+# entrar com informação
+promocao = ('O produto está em promoção? ', False)
+print(produto)
+print(preco)
+print(quantidade)
+print(categoria)
+print(promocao)

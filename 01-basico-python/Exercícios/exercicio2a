@@ -1,0 +1,11 @@
+quantidade1 = int(input('Quantos  do primeiro produto? ')) 
+preco1 = float(input('preço do 1o produto? ')) 
+
+quantidade2 = int(input('Quantos  do segundo produto? '))
+preco2 = float(input('preço do 2o produto? ')) 
+
+quantotal = quantidade1 + quantidade2
+pretotal = preco1 * quantidade1 + preco2 * quantidade2
+
+print('Quantidade total de produtos ', quantotal)
+print('Valor total da compra', pretotal)

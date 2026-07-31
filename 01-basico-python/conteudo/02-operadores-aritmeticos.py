@@ -28,10 +28,10 @@ resto_divisao = numero1 % numero2
 
 # print('A media do aluno é', media)
 
-# pergunte ao usario o nome, idade, altura e mostre o print final (frase)
-# nome = input("Qual seu nome? ")
-# idade = int(input('Qual sua idade? '))
-# altura = float(input('Qual a sua altura: '))
+#pergunte ao usario o nome, idade, altura e mostre o print final (frase)
+nome = input("Qual seu nome? ")
+idade = int(input('Qual sua idade? '))
+altura = float(input('Qual a sua altura: '))
 
 # print("Ola seja bem-vindo(a)",nome, 'voce tem', idade, 'anos', 'e tem', altura, 'm')
 
